@@ -1,0 +1,19 @@
+#system reward config
+SYSTEM_REWARD_CONFIG={
+    1:[
+    {'type':10050,'num':5},
+    ],
+    2:[
+    {'type':2,'num':1500},
+    {'type':3,'num':60}
+    ],
+    3:[
+    {'type':4000,'num':1},
+    ],
+    4:[
+    {'type':4010,'num':1},
+    ],
+    5:[
+    {'type':2020,'num':10},
+    ],
+}
